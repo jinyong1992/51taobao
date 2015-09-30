@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\51taobao\51taobao\bin\Release\51taobao.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\51taobao\51taobao\bin\Release\51taobao.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\51taobao\51taobao\bin\Release\51taobao.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\51taobao\51taobao\obj\Release\51taobao.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\51taobao\51taobao\obj\Release\51taobao.pdb

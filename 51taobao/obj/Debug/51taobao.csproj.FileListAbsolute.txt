@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\51taobao\51taobao\bin\Debug\51taobao.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\51taobao\51taobao\bin\Debug\51taobao.exe
+c:\users\administrator\documents\visual studio 2015\Projects\51taobao\51taobao\bin\Debug\51taobao.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\51taobao\51taobao\obj\Debug\51taobao.exe
+c:\users\administrator\documents\visual studio 2015\Projects\51taobao\51taobao\obj\Debug\51taobao.pdb
